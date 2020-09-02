@@ -10,7 +10,7 @@ import csv
 # Set path for file
 csvpath = os.path.join("Resources", "budget_data.csv")
 
-# Set variables
+# Initialize variables
 total_months = 0
 total_profit_loss = 0
 prev_profit_loss = 0
